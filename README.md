@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi there 👋 !;I am Bapon Kar;I+just+love+to+write+code;I+am+always+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋+!;I+am+Bapon+Kar;I+just+love+to+write+code;I+am+always+learning)](https://git.io/typing-svg)
 - 👋 Hi, I’m @baponkar
 - 👀 I’m interested in Unity Development 
 - 🌱 I’m currently learning Unity
