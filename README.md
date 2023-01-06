@@ -1,11 +1,12 @@
-<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=baponkar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=baponkar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)" />
+
 
 - 👋 Hi, I’m @baponkar
 - 👀 I’m interested in Unity Development 
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on Unity
 - 📫 How to reach me gamingjam60@gmail.com
-- 
+
+[![Baponkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=baponkar)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
