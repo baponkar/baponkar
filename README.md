@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋;I+am+Bapon+Kar.;I+just+love+to+write+code.;I+am+always+learning+new+things.;I+mainly+works+on+linux+system.;I+am+flexible+in+C+CSharp;Python+Bash+Shell+Script+JAVA;JAVASCRIPT+AWS+NGINX+DOCKER+HTML;ANDROID+STUDIO+VISUAL+STUDIO;UNITY+ETC)](https://git.io/typing-svg)
 
+![Header](https://github.com/baponkar/baponkar/blob/main/header.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+currently+working+on...;)](https://git.io/typing-svg)
 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+I am cureently working on ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
 <!--Previous Working Experiences-->
