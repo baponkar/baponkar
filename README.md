@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋;I+am+Bapon+Kar.;I+just+love+to+write+code.;I+am+always+learning+new+things.;I+mainly+works+on+linux+system.;I+am+flexible+in+C+CSharp;Python+Bash+Shell+Script+JAVA;JAVASCRIPT+AWS+NGINX+DOCKER+HTML;ANDROID+STUDIO+VISUAL+STUDIO;UNITY+ETC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+👋;I+am+Bapon+Kar.;I+just+love+to+write+code.;I+am+always+learning+new+things.;I+mainly+work+on+linux+system.;I+am+flexible+in+C+,+CSharp+,;Python+,+Bash+Shell+Script+JAVA+,;JAVASCRIPT+,+AWS+,+NGINX+,+DOCKER+,+HTML;ANDROID+STUDIO+,+VISUAL+STUDIO+,;UNITY+ETC.)](https://git.io/typing-svg)
 
 ![Header](https://github.com/baponkar/baponkar/blob/main/header.gif)
 
@@ -79,9 +79,11 @@ baponkar/baponkar is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-
+[Simple web host by me](http://gamingjam.tk/)
 
 [![Bapon Kar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=baponkar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baponkar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-## **Good to see you in here** ![visitors](https://visitor-badge.glitch.me/badge?page_id=${baponkar})
+
+## **Good to see you in here** 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${baponkar})
