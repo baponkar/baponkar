@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on Unity
 - 📫 How to reach me gamingjam60@gmail.com
-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+- ![visitors](https://visitor-badge.glitch.me/badge?page_id=${baponkar})
 
 <!---
 baponkar/baponkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
