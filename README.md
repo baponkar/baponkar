@@ -20,3 +20,4 @@ You can click the Preview link to take a look at your changes.
 ## **Good to see you in here** ![visitors](https://visitor-badge.glitch.me/badge?page_id=${baponkar})
 
 [![Bapon Kar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=baponkar)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Bapon Kar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=baponkar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
