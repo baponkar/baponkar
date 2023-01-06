@@ -2,10 +2,11 @@
 
 ![Header](https://github.com/baponkar/baponkar/blob/main/header.gif)
 
+<span style="color:green">I'm currently working on ➡️ </span>
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-I am cureently working on ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 <!--Languages-->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Languages...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📙Languages...;)](https://git.io/typing-svg)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -20,7 +21,7 @@ I am cureently working on ![Unity](https://img.shields.io/badge/unity-%23000000.
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <!--Previous Working Experiences-->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Previous+Working+experiences...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👩‍🔧Previous+Working+experiences...;)](https://git.io/typing-svg)
 
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -45,7 +46,7 @@ I am cureently working on ![Unity](https://img.shields.io/badge/unity-%23000000.
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
 <!--Platforms-->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Operating+Systems...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💻Operating+Systems...;)](https://git.io/typing-svg)
 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -56,7 +57,7 @@ I am cureently working on ![Unity](https://img.shields.io/badge/unity-%23000000.
 
 
 <!--Contacts-->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Contacts...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📱Contacts...;)](https://git.io/typing-svg)
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
@@ -79,7 +80,7 @@ baponkar/baponkar is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[Simple web host by me](http://gamingjam.tk/)
+🌐[Simple web host by me](http://gamingjam.tk/)
 
 [![Bapon Kar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=baponkar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
