@@ -54,7 +54,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋;I+am+Bapon+Kar.;I+just+love+to+write+code.;I+am+always+learning+new+things.;I+mainly+works+on+linux+system.;I+am+flexible+in+C+CSharp;Python+Bash+Shell+Script+JAVA;JAVASCRIPT+AWS+NGINX+DOCKER+HTML;ANDROID+STUDIO+VISUAL+STUDIO;UNITY+ETC)](https://git.io/typing-svg)
 
 <!--Languages-->
-|LANGUAGES|
+|[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Languages;)](https://git.io/typing-svg)|
 |:---------|
 |![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)|
 |![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)|
