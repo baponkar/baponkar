@@ -1,5 +1,6 @@
 ![welcome image](https://github.com/baponkar/baponkar/blob/main/welcome.gif)
 
+![baponkar](https://github.com/baponkar/baponkar/blob/main/baponkar.gif)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+👋;I+am+Bapon+Kar+from+🇮🇳.;I+am+a+hobbyist+code+writer.;I+just+love+to+write+code.;I+am+always+learning+new+things.;I+mainly+work+on+linux+system.;I+am+flexible+in+C+,+CSharp+,;Python+,+Bash+Shell+Script+JAVA+,;JAVASCRIPT+,+AWS+,+NGINX+,+DOCKER+,+HTML;ANDROID+STUDIO+,+VISUAL+STUDIO+,;UNITY+ETC.)](https://git.io/typing-svg)
 
 ![Header](https://github.com/baponkar/baponkar/blob/main/header.gif)
