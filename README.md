@@ -83,4 +83,5 @@ You can click the Preview link to take a look at your changes.
 
 [![Bapon Kar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=baponkar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baponkar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## **Good to see you in here** ![visitors](https://visitor-badge.glitch.me/badge?page_id=${baponkar})
