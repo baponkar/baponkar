@@ -10,8 +10,9 @@
 <span style="color:green">I'm currently working on ➡️ </span>
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-🌐[Simple web host by me](http://gamingjam.tk/)
 ---
+🌐[Simple web host by me](http://gamingjam.tk/)
+
 
 <!--Languages-->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📙Languages...;)](https://git.io/typing-svg)
