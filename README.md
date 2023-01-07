@@ -99,7 +99,7 @@
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Bapon-Kar-1)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-[![Baponkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=baponkar)](https://github.com/anuraghazra/github-readme-stats)
+[![Baponkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=baponkar&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
@@ -110,7 +110,7 @@ baponkar/baponkar is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baponkar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baponkar&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Bapon Kar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=baponkar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
