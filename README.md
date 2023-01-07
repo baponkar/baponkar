@@ -8,7 +8,7 @@
 
 
 <p align="center">
-    <img width="800" height="400" src="https://github.com/baponkar/baponkar/blob/main/header.gif" alt="Header">
+    <img width="800" src="https://github.com/baponkar/baponkar/blob/main/header.gif" alt="Header">
 </p>
 
 ---
