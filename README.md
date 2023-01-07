@@ -17,13 +17,12 @@
 
 ---
 
-
 <span style="color:green">I'm currently working on ➡️ </span>
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 🌐[Simple web host by me](http://gamingjam.tk/)
-
+---
 
 <!--Languages-->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📙Languages...;)](https://git.io/typing-svg)
@@ -40,7 +39,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-
+---
 <!--Previous Working Experiences-->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👩‍🔧Previous+Working+experiences...;)](https://git.io/typing-svg)
 
@@ -68,7 +67,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
+---
 <!--Platforms-->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💻Operating+Systems...;)](https://git.io/typing-svg)
 
@@ -79,7 +78,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-
+---
 <!--Contacts-->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📱Contacts...;)](https://git.io/typing-svg)
 
@@ -110,6 +109,5 @@ You can click the Preview link to take a look at your changes.
 [![Bapon Kar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=baponkar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
-## **Good to see you in here** 
+---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${baponkar})
