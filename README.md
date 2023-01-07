@@ -110,4 +110,10 @@ You can click the Preview link to take a look at your changes.
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://baponkar.itch.io)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Bapon-Kar-1)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${baponkar})
+
+---
+
+:bowtie:	bowtie
+:neckbeard:	neckbeard
+:octocat: ![visitors](https://visitor-badge.glitch.me/badge?page_id=${baponkar})
+---
