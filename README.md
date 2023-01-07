@@ -8,21 +8,16 @@
 
 
 <p align="center">
-    <img width="800" height="200" src="https://github.com/baponkar/baponkar/blob/main/header.gif" alt="Header">
+    <img width="800" height="400" src="https://github.com/baponkar/baponkar/blob/main/header.gif" alt="Header">
 </p>
-
-<p align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+👋;I+am+Bapon+Kar+from+🇮🇳.;I+am+a+hobbyist+coder.;I+just+love+to+write+code.;I+love+opensource+contents.;I+am+mainly+working+on+linux+system.;I+am+flexible+in+C+,+CSharp+,;Python+,+Bash+Shell+Script+,+JAVA+,;JAVASCRIPT+HTML+CSS+Languages;For+server+implimation;I+will+prefer+AWS+,NGINX+,+DOCKER...;For+mobile+device+I+have+knowledge+in;ANDROID+STUDIO;For+Windows+Desktop+App+.NET+Framework;For+Game+development+UNITY.)](https://git.io/typing-svg)
-  
-</p>
-
-<p align="center">
-    <img width="800" height="200" src="https://github.com/baponkar/baponkar/blob/main/im2.gif" alt="im2">
-</p>
-
 
 ---
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+👋;I+am+Bapon+Kar+from+🇮🇳.;I+am+a+hobbyist+coder.;I+just+love+to+write+code.;I+love+opensource+contents.;I+am+mainly+working+on+linux+system.;I+am+flexible+in+C+,+CSharp+,;Python+,+Bash+Shell+Script+,+JAVA+,;JAVASCRIPT+HTML+CSS+Languages;For+server+implimation;I+will+prefer+AWS+,NGINX+,+DOCKER...;For+mobile+device+I+have+knowledge+in;ANDROID+STUDIO;For+Windows+Desktop+App+.NET+Framework;For+Game+development+UNITY.)](https://git.io/typing-svg)
+
+---
+
+
 <span style="color:green">I'm currently working on ➡️ </span>
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
