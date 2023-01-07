@@ -1,10 +1,26 @@
+
 ![welcome image](https://github.com/baponkar/baponkar/blob/main/welcome.gif)
 
-![baponkar](https://github.com/baponkar/baponkar/blob/main/baponkar.gif)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+👋;I+am+Bapon+Kar+from+🇮🇳.;I+am+a+hobbyist+code+writer.;I+just+love+to+write+code.;I+am+always+learning+new+things.;I+mainly+work+on+linux+system.;I+am+flexible+in+C+,+CSharp+,;Python+,+Bash+Shell+Script+JAVA+,;JAVASCRIPT+,+AWS+,+NGINX+,+DOCKER+,+HTML;ANDROID+STUDIO+,+VISUAL+STUDIO+,;UNITY+ETC.)](https://git.io/typing-svg)
+<p align="center">
+  <img width="800" height="200" src="https://github.com/baponkar/baponkar/blob/main/baponkar.gif">
+</p>
 
-![Header](https://github.com/baponkar/baponkar/blob/main/header.gif)
-![im2](https://github.com/baponkar/baponkar/blob/main/im2.gif)
+
+
+<p align="center">
+    <img width="800" height="200" src="https://github.com/baponkar/baponkar/blob/main/header.gif" alt="Header">
+</p>
+
+<p align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+👋;I+am+Bapon+Kar+from+🇮🇳.;I+am+a+hobbyist+coder.;I+just+love+to+write+code.;I+love+opensource+contents.;I+am+mainly+working+on+linux+system.;I+am+flexible+in+C+,+CSharp+,;Python+,+Bash+Shell+Script+,+JAVA+,;JAVASCRIPT+HTML+CSS+Languages;For+server+implimation;I+will+prefer+AWS+,NGINX+,+DOCKER...;For+mobile+device+I+have+knowledge+in;ANDROID+STUDIO;For+Windows+Desktop+App+.NET+Framework;For+Game+development+UNITY.)](https://git.io/typing-svg)
+  
+</p>
+
+<p align="center">
+    <img width="800" height="200" src="https://github.com/baponkar/baponkar/blob/main/im2.gif" alt="im2">
+</p>
+
 
 ---
 <span style="color:green">I'm currently working on ➡️ </span>
@@ -86,10 +102,6 @@
 [![Baponkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=baponkar)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
 
 <!--END_SECTION:waka-->
 
