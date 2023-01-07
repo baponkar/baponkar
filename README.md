@@ -79,19 +79,6 @@
 
 
 ---
-<!--Contacts-->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📱Contacts...;)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/bapon-kar-815098200)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kar_bapon?t=PiaWOuxSinQnhstAmYQRaA&s=08)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baponkar)
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/baponkar)
-<!--![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white)-->
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7037351/baponkar)
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://baponkar.blogspot.com)
-[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://baponkar.itch.io)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Bapon-Kar-1)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 [![Baponkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=baponkar&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -105,9 +92,22 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baponkar&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
+---
 [![Bapon Kar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=baponkar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
+<!--Contacts-->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=📱Contacts...;)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/bapon-kar-815098200)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kar_bapon?t=PiaWOuxSinQnhstAmYQRaA&s=08)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baponkar)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/baponkar)
+<!--![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white)-->
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7037351/baponkar)
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://baponkar.blogspot.com)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://baponkar.itch.io)
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Bapon-Kar-1)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${baponkar})
