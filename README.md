@@ -2,7 +2,7 @@
 ![welcome image](https://github.com/baponkar/baponkar/blob/main/welcome.gif)
 
 <p align="center">
-  <img width="800" height="200" src="https://github.com/baponkar/baponkar/blob/main/baponkar.gif">
+  <img width="800" src="https://github.com/baponkar/baponkar/blob/main/baponkar.gif">
 </p>
 
 
