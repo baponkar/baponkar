@@ -112,8 +112,5 @@ You can click the Preview link to take a look at your changes.
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ---
-
-:bowtie:	bowtie
-:neckbeard:	neckbeard
 :octocat: ![visitors](https://visitor-badge.glitch.me/badge?page_id=${baponkar})
 ---
