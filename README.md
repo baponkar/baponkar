@@ -118,6 +118,3 @@ You can click the Preview link to take a look at your changes.
 ---
 :octocat: ![visitors](https://visitor-badge.glitch.me/badge?page_id=${baponkar})
 ---
-[![](https://github-readme-stats.vercel.app/api?username=baponkar&show_icons=true&bg_color=00000000&border_color=aaaaaa88&text_color=888888&custom_title=Stats)](https://baponkar.github.io)  
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=baponkar&bg_color=00000000&border_color=aaaaaa88&text_color=888888)](https://baponkar.github.io)
----
