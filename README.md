@@ -118,5 +118,3 @@ You can click the Preview link to take a look at your changes.
 ---
 :octocat: ![visitors](https://visitor-badge.glitch.me/badge?page_id=${baponkar})
 ---
-[![](profile-3d-contrib/profile-customize.svg)](https://baponkar.github.io)
----
