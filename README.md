@@ -97,7 +97,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baponkar&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 ---
-[![Bapon Kar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=baponkar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Bapon Kar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=baponkar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
