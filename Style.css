@@ -255,8 +255,7 @@ nav {
     max-width: 800px;
     height: auto;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 5%;
     align-content: flex-start;
 }
 
@@ -307,10 +306,4 @@ line-height: 1em;
     margin-right: auto;
 }
 
-.wave {
-    position: absolute;
-    width: 100%;
-    height: 100px;
-    background: url('gif/wave.gif'); /* replace with your wave image */
-    background-size: cover;
-}
+
