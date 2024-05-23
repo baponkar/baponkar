@@ -1,5 +1,6 @@
 
-![Static Badge](https://img.shields.io/badge/Kar%20-maker?style=plastic&logo=python&logoColor=blue&label=Bapon&labelColor=white&color=blue)
+[![Bapon Kar](https://img.shields.io/badge/Kar%20-maker?style=plastic&logo=python&logoColor=blue&label=Bapon&labelColor=white&color=blue)](https://github.com/baponkar) [![IN](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3-maker?style=plastic&logo=India&color=blue)](https://en.wikipedia.org/wiki/India)
+
 
 ![welcome image](gif/welcome.gif)
 
@@ -17,12 +18,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+👋;)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate Software Developer and Open Source Enthusiast from India</h3>
-
-
----
-
-## <span style="color:green">I'm currently working on ➡️ </span> ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) Computer Vision
+## <span style="color:cyan">A passionate Software Developer and Open Source Enthusiast from India. I'm currently working on ➡️  <img>![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) Computer Vision </span>
 
 ---
 
@@ -179,6 +175,9 @@ No activity tracked
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://baponkar.itch.io)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Bapon-Kar-1)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+
+![Gmail](https://img.shields.io/badge/Gmail-baponkar%40gmail.com-red?logo=gmail)
 
 ---
 :octocat:
