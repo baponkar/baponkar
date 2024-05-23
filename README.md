@@ -1,5 +1,10 @@
 
-[![Bapon Kar](https://img.shields.io/badge/Kar%20-maker?style=plastic&logo=python&logoColor=blue&label=Bapon&labelColor=white&color=blue)](https://github.com/baponkar) [![IN](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3-maker?style=plastic&logo=India&color=blue)](https://en.wikipedia.org/wiki/India)
+[![Bapon Kar](https://img.shields.io/badge/Kar%20-maker?style=social&logo=github&logoColor=blue&label=Bapon&labelColor=white&color=blue)](https://github.com/baponkar) 
+[![IN](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3-maker?style=plastic&color=blue
+)](https://en.wikipedia.org/wiki/India)
+[![GitHub followers](https://img.shields.io/github/followers/baponkar?style=social)](https://github.com/baponkar?tab=followers)
+[![Gmail](https://img.shields.io/badge/Gmail-maker?style=plastic&logo=gmail&color=black)](mailto:baponkar@gmail.com)
+
 
 
 ![welcome image](gif/welcome.gif)
