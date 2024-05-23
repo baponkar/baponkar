@@ -1,5 +1,5 @@
 
-![Static Badge](https://img.shields.io/badge/Kar%20-maker?style=plastic&logo=python&logoColor=blue&label=Bapon&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/Kar%20-maker?style=plastic&logo=python&logoColor=blue&label=Bapon&labelColor=white&color=blue)<p align="left"> <img src="https://komarev.com/ghpvc/?username=baponkar&label=Profile%20views&color=0e75b6&style=flat" alt="baponkar" /> </p>
 
 
 ![welcome image](gif/welcome.gif)
@@ -18,6 +18,9 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+👋;)](https://git.io/typing-svg)
 
+<h3 align="center">A passionate Software Developer and Open Source Enthusiast from India</h3>
+
+
 ---
 
 ## <span style="color:green">I'm currently working on ➡️ </span> ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) Computer Vision
@@ -34,7 +37,8 @@
 
 - ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastice&logo=c-sharp&logoColor=white)
 
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
+
 
 
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -148,14 +152,19 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-<!---
-baponkar/baponkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!---Github Stats--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baponkar&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![Bapon Kar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=baponkar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+[![Bapon Kar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baponkar&show_icons=true&locale=en&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=baponkar&" alt="baponkar" /></p>
+
 
 
 ---
@@ -175,4 +184,8 @@ You can click the Preview link to take a look at your changes.
 ---
 :octocat: ![visitors](https://visitor-badge.glitch.me/badge?page_id=${https://github.com/baponkar})
 ---
+
+
+
+
 
