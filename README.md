@@ -180,10 +180,11 @@ No activity tracked
 ![Gmail](https://img.shields.io/badge/Gmail-baponkar%40gmail.com-red?logo=gmail)
 
 ---
-:octocat:
+:octocat: ![Visitor](https://komarev.com/ghpvc/?username=baponkar&label=Profile%20views&color=0e75b6&style=flat)
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baponkar&label=Profile%20views&color=0e75b6&style=flat" alt="baponkar" /> </p>
+Thankyou for visit my GitHub Profile!
+
 
 
 
