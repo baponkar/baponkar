@@ -1,6 +1,5 @@
 
-![Static Badge](https://img.shields.io/badge/Kar%20-maker?style=plastic&logo=python&logoColor=blue&label=Bapon&labelColor=white&color=blue)<p align="left"> <img src="https://komarev.com/ghpvc/?username=baponkar&label=Profile%20views&color=0e75b6&style=flat" alt="baponkar" /> </p>
-
+![Static Badge](https://img.shields.io/badge/Kar%20-maker?style=plastic&logo=python&logoColor=blue&label=Bapon&labelColor=white&color=blue)
 
 ![welcome image](gif/welcome.gif)
 
@@ -182,8 +181,10 @@ No activity tracked
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ---
-:octocat: ![visitors](https://visitor-badge.glitch.me/badge?page_id=${https://github.com/baponkar})
+:octocat:
 ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=baponkar&label=Profile%20views&color=0e75b6&style=flat" alt="baponkar" /> </p>
 
 
 
