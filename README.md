@@ -12,7 +12,7 @@
 
 <!--![welcome image](gif/welcome.gif)-->
 
-## <span style="color:white;text-size:4px;">A passionate Software Developer and Open Source Enthusiast from India. I'm currently working on ![Static Badge](https://img.shields.io/badge/x86-32-maker?logo=x86&labelColor=blue&color=red).
+## <span style="color:white;text-size:4px;">A passionate Software Developer and Open Source Enthusiast from India. I'm currently working on ![Static Badge](https://img.shields.io/badge/x86-64-maker?logo=x86&labelColor=blue&color=red) based Operating System [KeblaOS](https://github.com/baponkar/KeblaOS).
 
 
 
